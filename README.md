@@ -18,6 +18,12 @@ Now it's time to get our hands dirty and doing some Data manipulation with Panda
 
 ## Day 005 - Gradient Descent
 
-## Day 006 - XGBoost
+This is one the most popular algorithms to perform optimization and by far the most common way to optimize Neural Networks which i will cover in the following days.
+Sebastian ruder wrote a very good paper about gradient descent and i loved it. 
+
+## [Day 006 - XGBoost](http://iran-machinelearning.ir/%d8%a7%d9%84%da%af%d9%88%d8%b1%db%8c%d8%aa%d9%85-xgboost-%d8%af%d8%b1-machine-learning/) 
+
+XGBoost. While searching for a groundtaking algorithm specially in competitions like #kaggle everywhere is talking about XGBoost. It is an optimized distributed gradient boosting library for Ensemble learning which combine power of multiple learners.
+Bagging and Boosting also was studied today. Planning for getting into kaggle soon.
 
 
