@@ -15,3 +15,9 @@ Now it's time to get our hands dirty and doing some Data manipulation with Panda
 ## Day 003 - Visualization (Matplotlib & Seaborn)
 
 ## Day 004 - Regression
+
+## Day 005 - Gradient Descent
+
+## Day 006 - XGBoost
+
+
