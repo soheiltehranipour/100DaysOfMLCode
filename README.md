@@ -30,6 +30,7 @@ Bagging and Boosting also was studied today. Planning for getting into kaggle so
 
 Using Iris Dataset, I made a project with logistic regression.
 
-## [Day 008 - Feature Scaling](https://github.com/soheiltehranipour/100DaysOfMLCode/blob/master/Day%20007-%20Logistic%20Regression.ipynb) 
+## [Day 008 - Feature Scaling](https://github.com/soheiltehranipour/100DaysOfMLCode/blob/master/Day%20008%20-%20Feature-Scaling.ipynb)
+Day 008 - Feature-Scaling.ipynb
 
 Feature scaling is a technique for normalizing the range of independent variables or data components. It is also known as data normalization in data processing and is often conducted during the data preparation stage. Steps for feature scaling : 1.Import packages 2.Import your dataset via pandas 3.check missing values and impute them 4.Encode categorical data 5.train/test split 6.Scale your data in different parts containing train and test
